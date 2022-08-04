@@ -19,8 +19,9 @@ namespace MethodsExercise
         static void Main(string[] args)
         {
             var amountOfCookies = Sum(3, 5);
-            var amountOfCakes = Sum(4, 6);
-
+            var amountOfCakes = Multiply(4, 6);
+            Console.WriteLine(amountOfCookies);
+            Console.WriteLine(amountOfCakes);
         }
     }
 }
