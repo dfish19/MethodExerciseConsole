@@ -1,0 +1,5 @@
+C:\Users\dfish\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.csproj.AssemblyReference.cache
+C:\Users\dfish\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfish\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.AssemblyInfoInputs.cache
+C:\Users\dfish\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.AssemblyInfo.cs
+C:\Users\dfish\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.csproj.CoreCompileInputs.cache
